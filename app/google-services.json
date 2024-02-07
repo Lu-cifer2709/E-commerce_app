@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31944524065",
+    "project_id": "nexbuy-bb24c",
+    "storage_bucket": "nexbuy-bb24c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31944524065:android:9147d5a2fa8bc1f69e3e60",
+        "android_client_info": {
+          "package_name": "com.example.nexbuy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhV-VMXyzOWR8yce8jhgtdtldK13o9cCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
